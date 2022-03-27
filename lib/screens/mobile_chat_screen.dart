@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_ui/colors.dart';
-import 'package:whatsapp_ui/info.dart';
-import 'package:whatsapp_ui/widgets/chat_list.dart';
+import 'package:whatsapp_clone/widgets/chat_list.dart';
+
+import '../colors.dart';
+import '../info.dart';
+
 
 class MobileChatScreen extends StatelessWidget {
   const MobileChatScreen({Key? key}) : super(key: key);
